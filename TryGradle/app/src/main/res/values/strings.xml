@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TryGradle</string>
+    <string name="hello_world">Hello World! 中文测试</string>
 </resources>
